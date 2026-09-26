@@ -54,7 +54,7 @@ The implementation combines:
                              |
             ---------------------------------
             |                               |
-     Farmer Mobile App              Agriculture Dashboard
+     Farmer Mobile App              sms based service
 
                              |
                              ↓
@@ -175,6 +175,7 @@ Each hub can monitor:
 ## Platform
 
 Android application with AI voice assistant.
+mobile sms system for uneducated farmer
 
 ## Key Features
 
@@ -208,7 +209,7 @@ Example:
 
 Farmers can ask:
 
-"Which crop is suitable for my land?"
+"Which crop is suitable for my land?"(mawar sathe kotha bole nite hobe i suggest je risky crop suggest kora instead of valo suggest kora)
 
 AI considers:
 
@@ -236,11 +237,13 @@ AI generates alerts for:
 ## Government Organizations
 
 Potential collaboration:
+-goal is to devlop the ai model with by getting the help from ppl who have domain knowladge
 
 -   Department of Agricultural Extension (DAE)
 -   Bangladesh Agricultural Research Institute (BARI)
 -   Bangladesh Rice Research Institute (BRRI)
 -   Bangladesh Water Development Board
+
 
 ## Academic Institutions
 

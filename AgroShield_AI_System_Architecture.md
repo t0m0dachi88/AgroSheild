@@ -116,7 +116,7 @@ databases
 
 Parameters: - Rainfall - Temperature - Humidity - Wind speed - Extreme
 weather events
-
+these are hypothetical yet to select better suggestions are welcomed
 ------------------------------------------------------------------------
 
 ## Water Intelligence Layer
